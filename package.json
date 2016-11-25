@@ -1,7 +1,7 @@
 {
   "name": "grunt-amp-validator",
   "description": "A Grunt plugin to wrap the validator of Google AMP.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/gabriel-rausch/grunt-amp-validator",
   "author": {
     "name": "gabriel-rausch",

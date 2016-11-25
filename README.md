@@ -1,6 +1,6 @@
 # grunt-amp-validator
 
-> A Grunt plugin to wrap the validator of Google AMP.
+> A Grunt plugin to wrap AMP HTML ⚡ Validator.
 
 ## Getting Started
 This plugin requires Grunt `~0.4.5`
