@@ -1,6 +1,6 @@
 {
   "name": "grunt-amp-validator",
-  "description": "A Grunt plugin to wrap the validator of Google AMP.",
+  "description": "A Grunt plugin to wrap AMP HTML ⚡ Validator.",
   "version": "0.1.1",
   "homepage": "https://github.com/gabriel-rausch/grunt-amp-validator",
   "author": {
@@ -28,12 +28,9 @@
     "test": "grunt test"
   },
   "dependencies": {
-  "amphtml-validator": "^1.0.15",
-  "shelljs": "0.7.2"
+  "amphtml-validator": "^1.0.15"
   },
   "devDependencies": {
-    "grunt-contrib-jshint": "^0.9.2",
-    "grunt-contrib-clean": "^0.5.0",
     "grunt-contrib-nodeunit": "^0.3.3",
     "grunt": "~0.4.5"
   },
